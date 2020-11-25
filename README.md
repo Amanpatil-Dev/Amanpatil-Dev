@@ -1,8 +1,6 @@
 ### Hi, I'm Aman 👋 :grinning:
 
-
-
-Here are some ideas to get you started:
+## Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... VENM stack 
 - 🌱 I’m currently learning  ... Dockers and Kubernetes
