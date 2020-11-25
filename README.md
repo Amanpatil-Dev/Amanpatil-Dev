@@ -1,4 +1,4 @@
-### Hi, I'm Aman 👋:simple_smile:
+### Hi, I'm Aman 👋
 
 
 
