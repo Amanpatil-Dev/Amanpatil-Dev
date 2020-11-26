@@ -1,5 +1,7 @@
 ### Hi, I'm Aman 👋 :grinning:
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Amanpatil-Dev&label=Views&color=blue&style=plastic" alt="Amanpatil-Dev" /> </p>
+
 ## Here are some ideas to get you started:
 
 - 🔭 I’m currently working on --> VENM stack 
