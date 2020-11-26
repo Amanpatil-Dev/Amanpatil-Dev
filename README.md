@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on -->  NodeJS
 - 🤔 I’m looking for help with any --> Backend Stuff
 - 💬 Ask me about --> Anything
-- 📫 How to reach me: --> [GMAIL](patilaman080@gmail.com)
+- 📫 How to reach me: -->(patilaman080@gmail.com)
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: --> Do You Even Lift
 -->
