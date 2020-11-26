@@ -14,6 +14,8 @@
 - ⚡ Fun fact: --> Do You Even Lift
 -->
 
+
+
 ### Connect With Me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aman-patil-7592a6198/)
@@ -42,7 +44,13 @@
 
 <br />
 
+
+
+<a href="https://github.com/Amanpatil-Dev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanpatil-Dev&theme=light&hide_langs_below=1" />
 </a>
+
+
 <a href="https://github.com/Amanpatil-Dev">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Amanpatil-Dev&show_icons=true&theme=light&line_height=27" alt="Amanpatil-Dev"/>
 </a>
