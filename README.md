@@ -7,7 +7,6 @@
 - 🔭 I’m currently working on --> VENM stack 
 - 🌱 I’m currently learning  --> Dockers and Kubernetes
 - 👯 I’m looking to collaborate on -->  NodeJS
-- 🤔 I’m looking for help with any --> Backend Stuff
 - 💬 Ask me about --> Anything
 - 📫 How to reach me: -->(patilaman080@gmail.com)
 - 😄 Pronouns: ... 
